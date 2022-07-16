@@ -1,0 +1,13 @@
+h1, p, li {
+    font-family: monospace;
+}
+
+.image-project {
+    width: 100%;
+    height: 23rem;
+}
+
+.banner {
+    width: 70%;
+    margin: 0 auto;
+}
